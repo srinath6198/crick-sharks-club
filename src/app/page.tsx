@@ -13,7 +13,7 @@ import { BASE_URL, DEFAULT_OG_IMAGE, organizationSchema, webPageSchema } from "@
 export const metadata: Metadata = {
   title: "Crick Sharks Club | Cricket Academy in Hosur, Tamil Nadu",
   description:
-    "Crick Sharks Club — cricket academy in Amgondapalli, Hosur, Tamil Nadu. Offering kids, junior, advanced and professional cricket coaching. 4 tournament wins in Bangalore.",
+    "Crick Sharks Club — cricket academy in Dinnur, Amgondapalli, Hosur, Tamil Nadu. Offering kids, junior, advanced and professional cricket coaching. 4 tournament wins in Bangalore.",
   keywords: [
     "Crick Sharks Club",
     "cricket academy Hosur",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     url: BASE_URL,
     title: "Crick Sharks Club | Cricket Academy in Hosur, Tamil Nadu",
     description:
-      "Cricket academy in Amgondapalli, Hosur, Tamil Nadu. Kids, junior, advanced and professional cricket coaching. 4 tournament wins in Bangalore.",
+      "Cricket academy in Dinnur,Amgondapalli, Hosur, Tamil Nadu. Kids, junior, advanced and professional cricket coaching. 4 tournament wins in Bangalore.",
     images: [{ url: DEFAULT_OG_IMAGE, width: 1200, height: 630, alt: "Crick Sharks Club team" }],
   },
 };
@@ -42,7 +42,7 @@ export default function Home() {
           webPageSchema({
             name: "Crick Sharks Club | Cricket Academy in Hosur, Tamil Nadu",
             description:
-              "Cricket academy in Amgondapalli, Hosur, Tamil Nadu offering kids, junior, advanced and professional cricket coaching.",
+              "Cricket academy in Dinnur,Amgondapalli, Hosur, Tamil Nadu offering kids, junior, advanced and professional cricket coaching.",
             url: BASE_URL,
           }),
         ]}

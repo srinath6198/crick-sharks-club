@@ -137,7 +137,7 @@ export default function Footer() {
 
               <p className="text-sm leading-7">
                 Dinnur, A. Settipalli,
-                Amgondapalli, Hosur,
+                Dinnur, Amgondapalli, Hosur,
                 Tamil Nadu – 635105
               </p>
             </div>

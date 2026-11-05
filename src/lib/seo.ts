@@ -4,7 +4,7 @@ export const BUSINESS = {
   name: "Crick Sharks Club",
   alternateName: "Crick Sharks Cricket Academy",
   description:
-    "Cricket academy in Amgondapalli, Hosur, Tamil Nadu offering kids, junior, advanced and professional cricket coaching programs.",
+    "Cricket academy in Dinnur, Amgondapalli, Hosur, Tamil Nadu offering kids, junior, advanced and professional cricket coaching programs.",
   url: BASE_URL,
   logo: `${BASE_URL}/images/teams.webp`,
   image: `${BASE_URL}/images/teams.webp`,

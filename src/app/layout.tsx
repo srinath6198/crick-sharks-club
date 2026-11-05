@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: "%s | Crick Sharks Club",
   },
   description:
-    "Crick Sharks Club is a cricket academy in Amgondapalli, Hosur, Tamil Nadu offering kids, junior, advanced and professional cricket coaching programs.",
+    "Crick Sharks Club is a cricket academy in Dinnur, Amgondapalli, Hosur, Tamil Nadu offering kids, junior, advanced and professional cricket coaching programs.",
   keywords: [
     "Crick Sharks Club",
     "cricket academy Hosur",
@@ -44,14 +44,14 @@ export const metadata: Metadata = {
     siteName: "Crick Sharks Club",
     title: "Crick Sharks Club | Cricket Academy in Hosur, Tamil Nadu",
     description:
-      "Cricket academy in Amgondapalli, Hosur, Tamil Nadu. Kids, junior, advanced and professional cricket coaching programs.",
+      "Cricket academy in Dinnur,Amgondapalli, Hosur, Tamil Nadu. Kids, junior, advanced and professional cricket coaching programs.",
     images: [{ url: DEFAULT_OG_IMAGE, width: 1200, height: 630, alt: "Crick Sharks Club" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Crick Sharks Club | Cricket Academy in Hosur, Tamil Nadu",
     description:
-      "Cricket academy in Amgondapalli, Hosur, Tamil Nadu. Kids, junior, advanced and professional cricket coaching.",
+      "Cricket academy in Dinnur,Amgondapalli, Hosur, Tamil Nadu. Kids, junior, advanced and professional cricket coaching.",
     images: [DEFAULT_OG_IMAGE],
   },
   icons: {

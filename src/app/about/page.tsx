@@ -9,9 +9,9 @@ import { BASE_URL, DEFAULT_OG_IMAGE, breadcrumbSchema, webPageSchema } from "@/l
 const PAGE_URL = `${BASE_URL}/about`;
 
 export const metadata: Metadata = {
-  title: "About Us | Cricket Academy in Amgondapalli, Hosur",
+  title: "About Us | Cricket Academy in Dinnur, Amgondapalli, Hosur",
   description:
-    "Learn about Crick Sharks Club — a cricket academy in Amgondapalli, Hosur, Tamil Nadu. Our mission, vision, values and coaching philosophy.",
+    "Learn about Crick Sharks Club — a cricket academy in Dinnur, Amgondapalli, Hosur, Tamil Nadu. Our mission, vision, values and coaching philosophy.",
   keywords: [
     "about Crick Sharks Club",
     "cricket academy Dinnur",
@@ -21,9 +21,9 @@ export const metadata: Metadata = {
   alternates: { canonical: PAGE_URL },
   openGraph: {
     url: PAGE_URL,
-    title: "About Crick Sharks Club | Cricket Academy in Amgondapalli",
+    title: "About Crick Sharks Club | Cricket Academy in Dinnur, Amgondapalli",
     description:
-      "Discover Crick Sharks Club — cricket academy in Amgondapalli, Hosur, Tamil Nadu. Our mission, vision and coaching values.",
+      "Discover Crick Sharks Club — cricket academy in Dinnur, Amgondapalli, Hosur, Tamil Nadu. Our mission, vision and coaching values.",
     images: [{ url: DEFAULT_OG_IMAGE, width: 1200, height: 630, alt: "About Crick Sharks Club" }],
   },
 };
@@ -61,9 +61,9 @@ export default function AboutPage() {
       <JsonLd
         data={[
           webPageSchema({
-            name: "About Crick Sharks Club | Cricket Academy in Amgondapalli",
+            name: "About Crick Sharks Club | Cricket Academy in Dinnur, Amgondapalli",
             description:
-              "Learn about Crick Sharks Club — cricket academy in Amgondapalli, Hosur, Tamil Nadu.",
+              "Learn about Crick Sharks Club — cricket academy in Dinnur, Amgondapalli, Hosur, Tamil Nadu.",
             url: PAGE_URL,
           }),
           breadcrumbSchema([
@@ -134,7 +134,7 @@ export default function AboutPage() {
 
             <p className="mt-6 leading-8 text-slate-600">
               Crick Sharks Club is a cricket club based in
-              Amgondapalli, Tamil Nadu. Our goal is to provide
+              Dinnur, Tamil Nadu. Our goal is to provide
               aspiring players with opportunities to learn,
               practice and improve their cricketing abilities.
             </p>

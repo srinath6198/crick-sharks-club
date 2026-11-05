@@ -138,7 +138,7 @@ export default function AcademyPage() {
             </h2>
 
             <p className="mt-6 leading-8 text-slate-600">
-              Crick Sharks Club is located in Amgondapalli,
+              Crick Sharks Club is located in Dinnur, Amgondapalli,
               Tamil Nadu. Our aim is to encourage aspiring
               cricketers to learn the game, develop their
               cricketing abilities and enjoy the sport.
